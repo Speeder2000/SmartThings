@@ -21,7 +21,7 @@
 metadata {
   definition(
     name: "Ring Alarm Range Extender", namespace: "codahq-hubitat", author: "Ben Rimmasch",
-      importUrl: "https://raw.githubusercontent.com/codahq/hubitat_codahq/master/devicestypes/ring-alarm-range-extender.groovy") {
+      importUrl: "https://raw.githubusercontent.com/Speeder2000/SmartThings-Speeder2000/master/devicetypes/ring-alarm-range-extender.groovy") {
     capability "Sensor"
     capability "Battery"
     capability "Configuration"
